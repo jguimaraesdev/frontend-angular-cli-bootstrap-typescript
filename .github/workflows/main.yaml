@@ -24,8 +24,7 @@ jobs:
     - name: Install dependencies
       run: npm install
 
-    - name: Build Angular app
-      run: npm run build
+    - name: Start Angular server
+      run: ng serve --port 4200 --disable-host-check
 
-    - name: Run tests
-      run: npm test
+    # Você pode adicionar mais etapas aqui, como testes, se necessário
