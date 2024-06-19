@@ -1,5 +1,5 @@
 {
-  "name": "front-estacionamento",
+  "name": "frontend-angular-cli-bootstrap-typescript",
   "version": "0.0.0",
   "description": "frontend de um app de totem estacionamento",
   "license": "reserved jguimaraesdev",
@@ -8,7 +8,7 @@
   "homepage": "url",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jguimaraesdev/frontestacionamento"
+    "url": "https://github.com/jguimaraesdev/frontend-angular-cli-bootstrap-typescript"
   },
   "scripts": {
     "ng": "ng",
